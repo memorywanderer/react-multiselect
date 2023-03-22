@@ -1,0 +1,11 @@
+:root {
+  --base-color: #777;
+  --accent-color: hsl(200, 100%, 50%);
+  --options-background: #fff;
+  --option-highlighted: hsl(200, 100%, 50%);
+  --option-selected: hsl(200, 100%, 70%);
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+}
